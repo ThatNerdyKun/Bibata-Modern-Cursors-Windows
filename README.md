@@ -6,7 +6,7 @@ We have optimized its size to the normal regular cursor size of Windows. We have
 Step 1: Go To The Bibata-Modern-Classic-Regular-Windows Folder<br>
 Step 2: Select the cursor which you have to download<br>
 Step 3: Click on "Download Raw File" on the top right corner<br>
-Now the downloading will start and you can use it.<br>
+Now the downloading will start and you can use it<br>
 # Contributors 💖
 https://www.gnome.org/ (**GNOME**) <br>
 https://www.bibata.live/ (**Bibata Live**) <br>
