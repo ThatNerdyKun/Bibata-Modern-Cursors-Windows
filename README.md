@@ -3,7 +3,7 @@
 # What We Have Done To Make Your Experience Better
 We have optimized its size to the normal regular cursor size of Windows. We have also reduced the download size. This is fully open sourced so their is no need to worry about any threat.
 # How To Download 💻
-Step 1: Go To The Bibata-Modern-Classic-Regular-Windows Folder<br>
+Step 1: Go To The ``Bibata-Modern-Classic-Regular-Windows`` folder<br>
 Step 2: Select the cursor which you have to download<br>
 Step 3: Click on "Download Raw File" on the top right corner<br>
 Now the downloading will start and you can use it<br>
